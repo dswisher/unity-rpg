@@ -8,3 +8,6 @@ minimalist scene, with placeholder objects made from primitives.
 
 Create a ground, three obstacles, and materials for each.
 
+Adding more to the scene: player, bumps, and a "rover", to experiment with nav mesh obstacle.
+Added a simple script to move the rover around a small area.
+
