@@ -20,5 +20,7 @@ Added the `PlayerController`, `PlayerMotor` and `CameraController`, based on the
 
 ## [INTERACTION - Making an RPG in Unity (E02)](https://www.youtube.com/watch?v=9tePzyL6dgc)
 
-TBD.
+Added the `Interactable` class, plus a new sphere ("Fred") that is interactable (along with Rover).
+Enhanced the `PlayerController` and `PlayerMotor` to face the focused interactable, and added a virtual
+function for the interaction.
 
