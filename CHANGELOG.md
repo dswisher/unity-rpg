@@ -24,3 +24,18 @@ Added the `Interactable` class, plus a new sphere ("Fred") that is interactable 
 Enhanced the `PlayerController` and `PlayerMotor` to face the focused interactable, and added a virtual
 function for the interaction.
 
+
+## [RPG graphics E01: Character model [Blender]](https://www.youtube.com/watch?v=aAO4C_8y0w8)
+
+TBD
+
+
+## [INTEGRATION 01 - Making an RPG in Unity (E03)](https://www.youtube.com/watch?v=COckHIIO8vk)
+
+TBD - will come back, after I've had a chance to work a bit in blender.
+
+
+## [ITEMS - Making an RPG in Unity (E04)](https://www.youtube.com/watch?v=HQNl3Ff2Lpo)
+
+TBD.
+
